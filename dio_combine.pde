@@ -21,7 +21,7 @@ int gameTimer = GAME_INIT_TIMER;
 final int GAME_INIT_TIMER2 = 0;
 int gameTimer2 = GAME_INIT_TIMER2;
 
-
+ 
 final int GAME_FISRT_ANIMA=0;
 final int GAME_START_A = 1;
 final int GAME_RUN_A = 2;
